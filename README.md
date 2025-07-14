@@ -38,7 +38,7 @@ Each section has a unique background color and appropriate padding.
 
 ## 🔗 Live Demo
 
-👉 [View Live Demo](https://your-demo-url.com)
+👉 [View Live Demo](https://velmaran15.github.io/SCT_WD_1/)
 
 ---
 
